@@ -1,10 +1,10 @@
-# HELLO I'am Thông ( Pine ) [ BÉ TẬP CODE ]
+# HELLO I'am Thông ( Pine ) [ BÉ TẬP CODE ] :evergreen_tree: :evergreen_tree: :evergreen_tree:
 ## I want to be myself :upside_down_face:
 
-<br>
+# :footprints: My Steps
 
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=ngohongthong1832004&theme=neon-palenight" alt = "Github Streak" >
-<br>
+
 # 📖 Top Langs
 
 
