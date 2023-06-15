@@ -8,4 +8,4 @@
 # 📖 Top Langs
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngohongthong1832004&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngohongthong1832004&text_color=00fff9&bg_color=151515&title_color=ff0303)
