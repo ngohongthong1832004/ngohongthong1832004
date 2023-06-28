@@ -1,7 +1,7 @@
 <h1 align="center">HELLO I'am Thông ( Pine ) [ BÉ TẬP CODE ] :evergreen_tree: :evergreen_tree: :evergreen_tree:</h1>
 <h1 align="center" >I want to be myself :upside_down_face: </h1>
 
-## I'm a Data Engineering Student at the IUH
+## I'm a student at the I U hacws
 
 - 👨‍💻 I’m study web development technologies like JavaScript, React, Nodejs, Django. (Ước mơ đó đ** có thật đâu 💩💩💩)
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
