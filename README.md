@@ -1,3 +1,4 @@
+<a align="center" href="https://github.com/ngohongthong1832004"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Developer😍%20vs%20Data%20Engineer💩;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
 <h1 align="center">HELLO I'am Thông ( Pine ) [ BÉ TẬP CODE ] :evergreen_tree: :evergreen_tree: :evergreen_tree:</h1>
 <h1 align="center" >I want to be myself :upside_down_face: </h1>
 
