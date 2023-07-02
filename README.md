@@ -34,5 +34,10 @@
   </br>
 </div>
 
+<h2>Contact me</h2>
+
+- Zalo: 03452230568
+- Facebook: https://www.facebook.com/thon.pine
+- Gmail: baphonpine@gmail.com  || thonghongngo2004@gmail.com ||  22649011.thong@gmail.edu.iuh.vn
 
 
