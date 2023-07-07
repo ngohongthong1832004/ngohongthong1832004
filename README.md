@@ -13,6 +13,10 @@
 
 - App chatRunTime with firebase : https://supercuifchat.vercel.app
 - App Todo with Localstograte : https://todoapp-sigma-woad.vercel.app
+- App Game Chill :
+  - Link : https://mini-game-change-color.vercel.app
+  - Docker :
+    - haah
 - App film with fullStack (react + node + MySql): đ** có đâu ""
 - App film with fullStack (react + Django + PostgresQL): Ước CMN mơ đấy
 
