@@ -17,6 +17,9 @@
   - Link: https://mini-game-change-color.vercel.app
   - Docker with CLI: ```   docker pull baphongpine/supercuif-game:latest   ```
   - Source code: https://github.com/ngohongthong1832004/mini-game-change-color
+- App Calendar note :
+  - Docker with CLI: ```   docker pull baphongpine/supercuif-calendar-note:v1   ```
+  - Source code: https://github.com/ngohongthong1832004/calendar-note
 - App film with full-stack (react + node + MySql): đ** có đâu ""
 - App film with full-stack (react + Django + PostgreSQL): Ước CMN mơ đấy
 
