@@ -29,7 +29,6 @@
     + Back-end ( Django ) :  ```   docker pull baphongpine/film-django-react:back-end   ```
     + RUN ```   docker run -p 8000:8000 baphongpine/film-django-react:back-end   ``` 
     + Source code: https://github.com/ngohongthong1832004/React-Django-Posgrestql-BE
-    => ```   ```
 
 ---
 
