@@ -22,6 +22,11 @@
   - Source code: https://github.com/ngohongthong1832004/calendar-note
 - App film with full-stack (react + node + MySql): đ** có đâu ""
 - App film with full-stack (react + Django + PostgreSQL): Ước CMN mơ đấy
+  - Docker with CLI:
+    + Front-end ( React ) :  ```   docker pull baphongpine/film-django-react:front-end   ```
+    + Source code: https://github.com/ngohongthong1832004/React-Django-Postgresql
+    + Back-end ( Django ) :  ```   docker pull baphongpine/film-django-react:back-end   ```
+    + Source code: https://github.com/ngohongthong1832004/React-Django-Posgrestql-BE
 
 ---
 
