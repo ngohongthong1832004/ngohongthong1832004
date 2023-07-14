@@ -24,9 +24,12 @@
 - App film with full-stack (react + Django + PostgreSQL): Ước CMN mơ đấy
   - Docker with CLI:
     + Front-end ( React ) :  ```   docker pull baphongpine/film-django-react:front-end   ```
+    + RUN ```   docker run -p 8080:80 baphongpine/film-django-react:front-end ```
     + Source code: https://github.com/ngohongthong1832004/React-Django-Postgresql
     + Back-end ( Django ) :  ```   docker pull baphongpine/film-django-react:back-end   ```
+    + RUN ```   docker run -p 8000:8000 baphongpine/film-django-react:back-end   ``` 
     + Source code: https://github.com/ngohongthong1832004/React-Django-Posgrestql-BE
+    => ```   ```
 
 ---
 
