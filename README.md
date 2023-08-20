@@ -17,6 +17,11 @@
   - Link: https://mini-game-change-color.vercel.app
   - Docker with CLI: ```   docker pull baphongpine/supercuif-game:latest   ```
   - Source code: https://github.com/ngohongthong1832004/mini-game-change-color
+- App Recommend for relax :
+  - Link: 
+  - Docker with CLI: ```      ```
+  - Source code FE: https://github.com/ngohongthong1832004/realTime-data-FE
+  - Source code BE: https://github.com/ngohongthong1832004/realTime-data-BE
 - App Calendar note :
   - Docker with CLI: ```   docker pull baphongpine/supercuif-calendar-note:v1   ```
   - Source code: https://github.com/ngohongthong1832004/calendar-note
