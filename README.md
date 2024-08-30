@@ -11,7 +11,7 @@
 
 ## Project for learning
 
-- Talk to myself: [https://my-site-wine-seven.vercel.app](https://pine.id.vn/)
+- Contact: https://pine.id.vn/
 - App chatRunTime with firebase: https://supercuifchat.vercel.app
 - App Todo with Localstograte: https://todoapp-sigma-woad.vercel.app
 - WebH2 (IUH Lab)
