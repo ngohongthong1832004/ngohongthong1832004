@@ -4,39 +4,29 @@
 
 ## I'm a student at the I U hacws (IUH)
 
-- 👨‍💻 I’m studying web development technologies like JavaScript, React, Nodejs, and Django. (Ước mơ đó đ** có thật đâu 💩💩💩)
+- 👨‍💻 I’m studying web development technologies like JavaScript, React, Nodejs, and Django.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
-- 💩 Oh I want to become a full-stack developer(Nghề kiếm cơm tay trái nếu học data đ** được).
+- 💩 Oh I want to become a full-stack developer
 - 🎯 Real Future Goals: Learn more technologies - Learning to become a DATA ENGINEERING
 
 ## Project for learning
 
-- Contact: https://pine.id.vn/
+- Talk to me: https://pine.id.vn/
 - App chatRunTime with firebase: https://supercuifchat.vercel.app
 - App Todo with Localstograte: https://todoapp-sigma-woad.vercel.app
-- WebH2 (IUH Lab)
+- Game Jump-with-h2: https://jump-with-h2.vercel.app/
+- WebH2 (IUH Lab):
   - Source code: https://github.com/KhanhNhat242/FrontendWebH2.2
 - App Game Chill :
-  - Link: https://mini-game-change-color.vercel.app
-  - Docker with CLI: ```   docker pull baphongpine/supercuif-game:latest   ```
   - Source code: https://github.com/ngohongthong1832004/mini-game-change-color
-- App Recommend for relax :
-  - Link: 
-  - Docker with CLI: ```      ```
+- App Recommend for relaxation:
   - Source code FE: https://github.com/ngohongthong1832004/realTime-data-FE
   - Source code BE: https://github.com/ngohongthong1832004/realTime-data-BE
 - App Calendar note :
-  - Docker with CLI: ```   docker pull baphongpine/supercuif-calendar-note:v1   ```
   - Source code: https://github.com/ngohongthong1832004/calendar-note
-- App film with full-stack (react + node + MySql): đ** có đâu ""
-- App film with full-stack (react + Django + PostgreSQL): Ước CMN mơ đấy
-  - Docker with CLI:
-    + Front-end ( React ) :  ```   docker pull baphongpine/film-django-react:front-end   ```
-    + RUN ```   docker run -p 8080:80 baphongpine/film-django-react:front-end ```
-    + Source code: https://github.com/ngohongthong1832004/React-Django-Postgresql
-    + Back-end ( Django ) :  ```   docker pull baphongpine/film-django-react:back-end   ```
-    + RUN ```   docker run -p 8000:8000 baphongpine/film-django-react:back-end   ``` 
-    + Source code: https://github.com/ngohongthong1832004/React-Django-Posgrestql-BE
+- App film with full-stack (react + Django + PostgreSQL):
+  - Source code: https://github.com/ngohongthong1832004/React-Django-Postgresql
+  - Source code: https://github.com/ngohongthong1832004/React-Django-Posgrestql-BE
 
 ---
 
