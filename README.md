@@ -11,10 +11,10 @@
 
 ## Project for learning
 
-- Talk to me: https://pine.id.vn/
+- Talk to me: https://pine.id.vn
 - App chatRunTime with firebase: https://supercuifchat.vercel.app
 - App Todo with Localstograte: https://todoapp-sigma-woad.vercel.app
-- Game Jump-with-h2: https://jump-with-h2.vercel.app/
+- Game Jump-with-h2: https://jump-with-h2.vercel.app
 - WebH2 (IUH Lab):
   - Source code: https://github.com/KhanhNhat242/FrontendWebH2.2
 - App Game Chill :
