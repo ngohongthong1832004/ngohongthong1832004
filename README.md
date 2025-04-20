@@ -1,27 +1,36 @@
-<a align="center" href="https://github.com/ngohongthong"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Phun%20Stack%20Dev😍%20vs%20Data%20Baby💩;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
-<h1 align="center">HELLO I'am Thông ( Pine ) [ BÉ TẬP CODE ] :evergreen_tree: :evergreen_tree: :evergreen_tree:</h1>
-<h1 align="center" >I want to be myself :upside_down_face: </h1>
+<a align="center" href="https://github.com/ngohongthong"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!%20I'm%20Thong;Software%20AI%20%20vs%20Data%20Engineer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
 <h2 align="center" >Every small step brings you closer to your bigger goals.</h2>
 
-## I'm a student at the I U hacws (IUH)
+## I'm a student at the IUH
 
 - 👨‍💻 I’m studying web development technologies like JavaScript, React, Nodejs, and Django.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
-- 💩 Oh I want to become a full-stack developer
-- 🎯 Real Future Goals: Learn more technologies - Learning to become a DATA ENGINEERING
+- 🧠 My major is Data Science, and I'm also exploring AI to apply it in real-world projects.
 
 ## 📚 Projects for Learning & Practice
-
+Project **Software**
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
 |-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
 | 💬 ChatRunTime (Firebase)           | Real-time chat app with Firebase       | [Live](https://supercuifchat.vercel.app)         | –                                                        |
-| ✅ Todo App (LocalStorage)          | Simple task tracker using LocalStorage | [Live](https://todoapp-sigma-woad.vercel.app)     | –                                                        |
 | 🎮 Jump-with-H2 Game                | Mini game – character jumping          | [Play](https://jump-with-h2.vercel.app)           | –                                                        |
 | 🧪 WebH2 (IUH Lab)                  | UI project for lab work                | –                                                 | [Repo](https://github.com/KhanhNhat242/FrontendWebH2.2) |
-| 🎨 Game Chill: Color Switch         | Mini game changing colors              | –                                                 | [Repo](https://github.com/ngohongthong/mini-game-change-color) |
 | 🧘‍♂️ Recommend App (Relaxation)     | Real-time content suggestion           | –                                                 | [FE](https://github.com/ngohongthong/realTime-data-FE) • [BE](https://github.com/ngohongthong/realTime-data-BE) |
 | 🗓️ Calendar Note                    | Take notes by calendar                 | –                                                 | [Repo](https://github.com/ngohongthong/calendar-note)   |
 | 🎬 Film App (Full-stack)            | React + Django + PostgreSQL app        | –                                                 | [Full](https://github.com/ngohongthong/React-Django-Postgresql) • [BE](https://github.com/ngohongthong/React-Django-Posgrestql-BE) |
+
+Project **Data**
+| Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
+|-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+| 🧪 E_Commerce                  | Streaming data with E Commerce data                | –                                                 | [Repo](https://github.com/ngohongthong1832004/E_Commerce) |
+| 🧪 MinIO-spark-clickhous                  | ELT Data with airflow                | –                                                 | [Repo](https://github.com/ngohongthong1832004/minio-spark-clickhouse) |
+| 🚀 streaming-kafka-spark-redshift                  | Streaming Kafka → Spark → Amazon Redshift                | –                                                 | [Repo](https://github.com/ngohongthong1832004/streaming-kafka-spark-redshift) |
+
+Project **AI**
+| Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
+|-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+| 💬 Chat Agent           | Chatbot Agent use langraph for RAG and gen SQL       | -         | [Repo](https://github.com/ngohongthong1832004/chatbot-finacial-langgraph)                                                        |
+| 🧪 Breast Cancer           | Real-time chat app with Firebase       | -         | [Kaggle](https://www.kaggle.com/code/bappine/dataset-ddms-breast-cancer-ung-th-dz)                                                        |
+
 
 
 
