@@ -8,7 +8,8 @@
 - 🧠 My major is Data Science, and I'm also exploring AI to apply it in real-world projects.
 
 ## 📚 Projects for Learning & Practice
-Project **Software**
+
+### 🛠️ Software Projects
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
 |-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
 | 💬 ChatRunTime (Firebase)           | Real-time chat app with Firebase       | [Live](https://supercuifchat.vercel.app)         | –                                                        |
@@ -18,18 +19,18 @@ Project **Software**
 | 🗓️ Calendar Note                    | Take notes by calendar                 | –                                                 | [Repo](https://github.com/ngohongthong/calendar-note)   |
 | 🎬 Film App (Full-stack)            | React + Django + PostgreSQL app        | –                                                 | [Full](https://github.com/ngohongthong/React-Django-Postgresql) • [BE](https://github.com/ngohongthong/React-Django-Posgrestql-BE) |
 
-Project **Data**
+### 🧩 Data Engineering Projects
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
 |-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
 | 🧪 E_Commerce                  | Streaming data with E Commerce data                | –                                                 | [Repo](https://github.com/ngohongthong1832004/E_Commerce) |
 | 🧪 MinIO-spark-clickhous                  | ELT Data with airflow                | –                                                 | [Repo](https://github.com/ngohongthong1832004/minio-spark-clickhouse) |
 | 🚀 streaming-kafka-spark-redshift                  | Streaming Kafka → Spark → Amazon Redshift                | –                                                 | [Repo](https://github.com/ngohongthong1832004/streaming-kafka-spark-redshift) |
 
-Project **AI**
+### 🤖 AI Projects
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
 |-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
 | 💬 Chat Agent           | Chatbot Agent use langraph for RAG and gen SQL       | -         | [Repo](https://github.com/ngohongthong1832004/chatbot-finacial-langgraph)                                                        |
-| 🧪 Breast Cancer           | Real-time chat app with Firebase       | -         | [Kaggle](https://www.kaggle.com/code/bappine/dataset-ddms-breast-cancer-ung-th-dz)                                                        |
+| 🧪 Breast Cancer           | Research and pretrain model       | -         | [Kaggle](https://www.kaggle.com/code/bappine/dataset-ddms-breast-cancer-ung-th-dz)                                                        |
 
 
 
@@ -49,12 +50,12 @@ Project **AI**
   </br>
 </div>
 
-<h2>Contact me</h2>
+## 📬 Contact Me
 
-- Phone: 0345223056
-- Linked: [💼 LinkedIn](https://www.linkedin.com/in/ngo-thong-222138246/)
-- Facebook: [🔗 Facebook](https://www.facebook.com/thon.pine)
-- Gmail: baphonpine@gmail.com  || thonghongngo2004@gmail.com
+- 📱 Phone: 0345 223 056  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ngo-thong-222138246/)  
+- 🌐 [Facebook](https://www.facebook.com/thon.pine)  
+- ✉️ Gmail: baphonpine@gmail.com • thonghongngo2004@gmail.com  
 
 
 
