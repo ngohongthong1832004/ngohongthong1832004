@@ -39,14 +39,14 @@
 
 <div align="center">
   </br>
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=ngohongthong&theme=neon-palenight" alt = "Github Streak" >
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=ngohongthong1832004&theme=neon-palenight" alt = "Github Streak" >
   </br>
 </div>
 
 # 📖 Top Langs
 <div align="center">
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngohongthong&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Pine's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngohongthong1832004&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Pine's Github Stats">
   </br>
 </div>
 
