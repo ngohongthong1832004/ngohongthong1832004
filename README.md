@@ -22,9 +22,12 @@
 ### 🧩 Data Engineering Projects
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
 |-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+| 🚀 Social-Media-Sentiment-Pipeline                  | Semi Streaming and predict with model sentiment                | –                                                 | [Repo](https://github.com/ngohongthong1832004/Social-Media-Sentiment-Pipeline) |
 | 🧪 E_Commerce                  | Streaming data with E Commerce data                | –                                                 | [Repo](https://github.com/ngohongthong1832004/E_Commerce) |
-| 🧪 MinIO-spark-clickhous                  | ELT Data with airflow                | –                                                 | [Repo](https://github.com/ngohongthong1832004/minio-spark-clickhouse) |
 | 🚀 streaming-kafka-spark-redshift                  | Streaming Kafka → Spark → Amazon Redshift                | –                                                 | [Repo](https://github.com/ngohongthong1832004/streaming-kafka-spark-redshift) |
+| 🧪 MinIO-spark-clickhous                  | ELT Data with airflow                | –                                                 | [Repo](https://github.com/ngohongthong1832004/minio-spark-clickhouse) |
+| 🚀 CDC-Postgres-Kafka-ClickHouse                  | Migrate data to data-mart                | –                                                 | [Repo](https://github.com/ngohongthong1832004/CDC-Postgres-Kafka-ClickHouse) |
+
 
 ### 🤖 AI Projects
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
