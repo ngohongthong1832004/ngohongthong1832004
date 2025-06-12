@@ -12,6 +12,7 @@
 ### 🛠️ Software Projects
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
 |-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+| 👨‍💻 Student Management System (SMS)   | For Manager system       | [Live](https://alberto.mom)         | –                                                        |
 | 💬 ChatRunTime (Firebase)           | Real-time chat app with Firebase       | [Live](https://supercuifchat.vercel.app)         | –                                                        |
 | 🎮 Jump-with-H2 Game                | Mini game – character jumping          | [Play](https://jump-with-h2.vercel.app)           | –                                                        |
 | 🧪 WebH2 (IUH Lab)                  | UI project for lab work                | –                                                 | [Repo](https://github.com/KhanhNhat242/FrontendWebH2.2) |
