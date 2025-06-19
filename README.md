@@ -1,8 +1,8 @@
 <a align="center" href="https://github.com/ngohongthong"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!%20I'm%20Thong;Software%20AI%20%20vs%20Data%20Engineer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
 <h2 align="center" >Every small step brings you closer to your bigger goals.</h2>
 
-## I'm a student at the IUH
 
+## I'm a student at the IUH [My Portfolio -> ](https://pine.id.vn/)
 - 👨‍💻 I’m studying web development technologies like JavaScript, React, Nodejs, and Django.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🧠 My major is Data Science, and I'm also exploring AI to apply it in real-world projects.
