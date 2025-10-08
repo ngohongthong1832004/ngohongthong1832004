@@ -3,7 +3,7 @@
 
 
 ## I'm a student at the IUH 
-- This is my [☞ Portfolio](https://pine.id.vn/)
+- This is my [☞ Portfolio](https://www.ngohongthong.studio/)
 - 💻 I have hands-on experience working with modern web technologies including JavaScript, React, Node.js, and Django in both frontend and backend roles.
 - 🚀 I am skilled in building scalable web applications, developing APIs, and integrating AI/Data Science solutions to solve real-world problems.
 - 📊 My academic background is in Data Science, and I have experience applying machine learning and AI techniques in practical projects, especially in data collection, processing, and analytics.
